@@ -18,3 +18,4 @@
 
 # Ignore the .env
 .env
+/config/local_env.yml
